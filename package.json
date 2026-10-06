@@ -1,0 +1,13 @@
+{
+  "name": "maxhash-ecommerce",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MAXHASH ECOMMERCE catalogue + enquiry site with SMTP enquiry emails",
+  "main": "serve.js",
+  "scripts": {
+    "start": "node serve.js"
+  },
+  "dependencies": {
+    "nodemailer": "10.0.15"
+  }
+}

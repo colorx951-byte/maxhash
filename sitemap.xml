@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://maxhash.online/index.html</loc><priority>1.0</priority></url>
+  <url><loc>https://maxhash.online/products.html</loc><priority>0.9</priority></url>
+  <url><loc>https://maxhash.online/about.html</loc><priority>0.6</priority></url>
+  <url><loc>https://maxhash.online/contact.html</loc><priority>0.8</priority></url>
+  <url><loc>https://maxhash.online/category.html?slug=electronics</loc><priority>0.7</priority></url>
+  <url><loc>https://maxhash.online/category.html?slug=clothing-fashion</loc><priority>0.7</priority></url>
+  <url><loc>https://maxhash.online/category.html?slug=tools-machinery</loc><priority>0.7</priority></url>
+  <url><loc>https://maxhash.online/category.html?slug=home-appliances</loc><priority>0.7</priority></url>
+  <url><loc>https://maxhash.online/category.html?slug=furniture</loc><priority>0.7</priority></url>
+  <url><loc>https://maxhash.online/category.html?slug=electrical-products</loc><priority>0.7</priority></url>
+  <url><loc>https://maxhash.online/category.html?slug=industrial-commercial</loc><priority>0.7</priority></url>
+  <url><loc>https://maxhash.online/category.html?slug=other-products</loc><priority>0.7</priority></url>
+</urlset>
